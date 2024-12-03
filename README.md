@@ -1,8 +1,9 @@
 
-<img alt="assets/fondos_tecnologia" src="#" width='40' align="left"/>img
- <div></div>
- 
--------------------
+<img align=center alt="fondos_tecnologia" src="assets/fondos_tecnologia.jpg" width='900' align="left"/>
+
+
+
+
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Enrique+Cervantes+%F0%9F%91%8B;Desarrollador+Backend+en+Nodejs;Entusiasta+de+SQL+y+Express" alt="Headline" />
