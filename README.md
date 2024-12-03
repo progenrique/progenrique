@@ -2,6 +2,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=progenrique&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=progenrique&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=progenrique&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **progenrique/progenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
