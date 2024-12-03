@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="#" width='40' align="left"/>img
+<img alt="assets/fondos_tecnologia" src="#" width='40' align="left"/>img
  <div></div>
  
 -------------------
